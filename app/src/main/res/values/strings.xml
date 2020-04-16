@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AutoCompleteTextView and Adapter</string>
+    <string name="select">Выбрать…</string>
+    <string name="last_name">Фамилия</string>
 </resources>
